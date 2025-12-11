@@ -3,7 +3,7 @@ export const profileData = {
     username: "theblazinggolem",
     designation: "Discord Architect",
     experience: 2022,
-    github: "https://github.com/theblazingolem",
+    github: "https://github.com/theblazinggolem",
     x: "https://x.com/blzngdotdev",
     about: `I'm a Discord Architect. I design, create, and manage communities on Discord.`,
 };
